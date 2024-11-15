@@ -4,10 +4,10 @@ list_title: Read Our Latest Posts
 title: ''
 ---
 
-# Github Pages Demo Blog
+# Demo Blog
 
-Welcome to this demo blog!
+Welcome to the demo 
 
-This website intends to show you how to easily build and deploy a portfolio with a blog using _GitHub Pages_ and _Jekyll_.
+This website intends to show you how to easily build and deploy a blog or portfolio website
 
-You can find the sources of this project [here](https://github.com/SimonDosda/gp-blog).
+Have fun 
